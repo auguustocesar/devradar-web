@@ -17,7 +17,7 @@ Na sua linha de comando execute:
 
 ```bash
 # Clonando este repositório
-$ git clone https://github.com/auguustocesar/devradar-web
+$ git clone https://github.com/augustocesarfmo/devradar-web
 
 # Acessando o repositório
 $ cd devradar-web
