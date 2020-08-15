@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
-- [ReactJS](https://expressjs.com/)
+- [ReactJS](https://reactjs.org)
 - [Axios](https://github.com/axios/axios)
 - [Mongoose](https://mongoosejs.com/)
 - [VS Code][vc]
