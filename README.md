@@ -1,15 +1,18 @@
 # DevRadar - web
 
-## Tecnologias
+Aplicação *web* desenvolvida na semana OmniStack 10.0 da [Rocketseat](https://rocketseat.com.br/) para gerenciamento e busca de desenvolvedores que residem próximo a você num raio de 100 km.
+
+![](https://imgur.com/IvXvKu4.png)
+
+## 🚀 Tecnologias
 
 Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
-- [ReactJS](https://reactjs.org)
-- [Axios](https://github.com/axios/axios)
-- [Mongoose](https://mongoosejs.com/)
-- [VS Code][vc]
+- [reactjs](https://reactjs.org)
+- [axios](https://github.com/axios/axios)
+- [vs code][vc]
 
-## Executando
+## ℹ️ Executando
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -29,13 +32,13 @@ $ yarn install
 $ yarn start
 ```
 
-## :memo: Licença
+## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
